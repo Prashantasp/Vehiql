@@ -5,19 +5,19 @@ It enables users and dealers to **list, search, and manage cars**, including **A
 
 ---
 
-## 🌟 Features
+##  Features
 
-- 🧠 **AI-powered image-based car search:** Upload an image to find similar cars.  
-- 💰 **AI price suggestion:** Get fair price estimates based on brand, year, mileage, etc.  
-- 🔐 **Role-based authentication:** Implemented using Clerk (User, Dealer, Admin).  
-- ⚙️ **10+ dynamic filters:** Fast car discovery and smoother navigation.  
-- 🗄️ **Supabase integration:** Real-time database and image storage.  
-- 🎨 **Responsive modern UI:** Built with Tailwind CSS and Shadcn UI.  
-- 🚀 **Optimized backend:** Prisma ORM for efficient queries and scalability.
+-  **AI-powered image-based car search:** Upload an image to find similar cars.  
+-  **AI price suggestion:** Get fair price estimates based on brand, year, mileage, etc.  
+-  **Role-based authentication:** Implemented using Clerk (User, Dealer, Admin).  
+-  **10+ dynamic filters:** Fast car discovery and smoother navigation.  
+-  **Supabase integration:** Real-time database and image storage.  
+-  **Responsive modern UI:** Built with Tailwind CSS and Shadcn UI.  
+-  **Optimized backend:** Prisma ORM for efficient queries and scalability.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology Used |
 |-------|------------------|
