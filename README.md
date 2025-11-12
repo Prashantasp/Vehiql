@@ -37,9 +37,8 @@ It enables users and dealers to **list, search, and manage cars** — including 
 1. **Frontend (Next.js)** handles routing, UI, and serverless API routes.  
 2. **Supabase** manages user data, car listings, and image storage.  
 3. **Prisma ORM** simplifies database operations.  
-4. **AI model** (Python) runs separately for price prediction and image-based search.  
-5. **Clerk** manages secure login and access roles.  
-6. **ArcJet** provides app-level security.
+4. **Gemini API** image-based search.  
+5. **Clerk** manages secure login and access roles.
 
 ---
 
