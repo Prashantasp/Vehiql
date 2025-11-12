@@ -28,8 +28,7 @@ It enables users and dealers to **list, search, and manage cars** — including 
 **Frontend:** Next.js, Tailwind CSS, Shadcn UI  
 **Backend:** Supabase (PostgreSQL), Prisma ORM  
 **Auth:** Clerk  
-**AI Integration:** Python (Image classification & price prediction)  
-**Deployment:** Vercel  
+**AI Integration:** Gemini API
 
 ---
 
