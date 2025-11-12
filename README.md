@@ -13,8 +13,7 @@ It enables users and dealers to **list, search, and manage cars** — including 
 
 ##  Features
 
--  **AI-powered image-based car search**  
-  Upload an image to find similar cars.
+-  **AI-powered image-based car search** Upload an image to find similar cars.
 -  **AI Car suggestion** based on car details (brand, year, mileage, etc.)
 -  **Role-based authentication** using Clerk (User, Dealer, Admin)
 -  **10+ dynamic filters** for fast car discovery.
@@ -50,5 +49,5 @@ It enables users and dealers to **list, search, and manage cars** — including 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/vehiql.git
+   git clone https://github.com/Prashantasp/Vehiql.git
    cd vehiql
